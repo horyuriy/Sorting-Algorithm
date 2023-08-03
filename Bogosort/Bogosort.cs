@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Bogosort
 {
-    public  class Bogosort
+    public class Bogosort
     {
-       public static bool IsSorted(int[] a)
+        public static bool IsSorted(int[] a)
         {
             for (int i = 0; i < a.Length - 1; i++)
             {
@@ -21,10 +21,10 @@ namespace Bogosort
         {
             Random random = new Random();
             var n = a.Length;
-            while (n>1)
+            while (n > 1)
             {
                 n--;
-                var i = random.Next(n+1);
+                var i = random.Next(n + 1);
                 var temp = a[i];
                 a[i] = a[n];
                 a[n] = temp;

@@ -8,14 +8,14 @@ namespace BubbleSort
 {
     public class BubbleSort
     {
-        public static void Swap(ref int firstElem, ref int SecondElem)
+        public static void Swap(ref int firstElem, ref int secondElem)
         {
             var temp = firstElem;
-            firstElem = SecondElem;
-            SecondElem = temp;
+            firstElem = secondElem;
+            secondElem = temp;
         }
         public static int[] BubbleSorts(int[] array)
-        {
+        { 
             var length = array.Length;
             for (var i = 1; i < length; i++)
             {
