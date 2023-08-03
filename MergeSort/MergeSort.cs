@@ -49,7 +49,6 @@ namespace MergeSort
             }
         }
 
-        //сортировка слиянием
        public static int[] MergeSorts(int[] array, int lowIndex, int highIndex)
         {
             if (lowIndex < highIndex)
