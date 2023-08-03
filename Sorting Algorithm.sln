@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShakerSort", "ShakerSort\Sh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionSort\InsertionSort.csproj", "{D9F0251D-B009-494D-8122-824CFF5D57D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PancakeSort", "PancakeSort\PancakeSort.csproj", "{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D9F0251D-B009-494D-8122-824CFF5D57D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9F0251D-B009-494D-8122-824CFF5D57D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9F0251D-B009-494D-8122-824CFF5D57D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
