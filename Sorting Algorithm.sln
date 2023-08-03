@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "InsertionS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PancakeSort", "PancakeSort\PancakeSort.csproj", "{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShellSort", "ShellSort\ShellSort.csproj", "{00D0AE88-14E3-4A85-869E-AF5C3C269381}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSort", "MergeSort\MergeSort.csproj", "{4239A82F-E592-4493-A657-2CEBF4594FBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A12F97-0997-4ED8-9FD0-ADFD2D6E8386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00D0AE88-14E3-4A85-869E-AF5C3C269381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00D0AE88-14E3-4A85-869E-AF5C3C269381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00D0AE88-14E3-4A85-869E-AF5C3C269381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00D0AE88-14E3-4A85-869E-AF5C3C269381}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4239A82F-E592-4493-A657-2CEBF4594FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4239A82F-E592-4493-A657-2CEBF4594FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4239A82F-E592-4493-A657-2CEBF4594FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4239A82F-E592-4493-A657-2CEBF4594FBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
