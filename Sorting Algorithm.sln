@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GnomeSort", "GnomeSort\Gnom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeSort", "TreeSort\TreeSort.csproj", "{26262F35-2EC3-466D-BC0C-66422F9D3AB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombSort", "CombSort\CombSort.csproj", "{2D77EA17-511A-48A1-B73C-5E1A258546BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{26262F35-2EC3-466D-BC0C-66422F9D3AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26262F35-2EC3-466D-BC0C-66422F9D3AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26262F35-2EC3-466D-BC0C-66422F9D3AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D77EA17-511A-48A1-B73C-5E1A258546BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D77EA17-511A-48A1-B73C-5E1A258546BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D77EA17-511A-48A1-B73C-5E1A258546BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D77EA17-511A-48A1-B73C-5E1A258546BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
