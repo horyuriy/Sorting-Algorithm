@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bogosort
 {
-    public static class Bogosort
+    public  class Bogosort
     {
        public static bool IsSorted(int[] a)
         {
